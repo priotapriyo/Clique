@@ -1,0 +1,14 @@
+
+
+.feed{
+    align-items: center;
+   width: max-content;
+    
+}
+
+.feedWrapper{
+    padding: 1.5em;
+}
+.commentsubmitbg{
+    background-color: white;
+}
